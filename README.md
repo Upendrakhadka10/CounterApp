@@ -1,1 +1,2 @@
 # CounterApp
+![](ScreenShot.gif)
